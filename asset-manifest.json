@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/art-without-borders/static/css/main.8429c1c4.css",
-    "main.js": "/art-without-borders/static/js/main.cb189ceb.js",
+    "main.js": "/art-without-borders/static/js/main.0dda8de4.js",
     "static/js/787.74dca50f.chunk.js": "/art-without-borders/static/js/787.74dca50f.chunk.js",
     "static/media/Karina.JPG": "/art-without-borders/static/media/Karina.6c4058406c5485a37926.JPG",
     "static/media/Slice1.png": "/art-without-borders/static/media/Slice1.bef432d1f66e07ccc980.png",
@@ -36,11 +36,11 @@
     "static/media/leftArrow.svg": "/art-without-borders/static/media/leftArrow.d7b5bcd66f8c9cf522a644b8854a315b.svg",
     "static/media/mail.svg": "/art-without-borders/static/media/mail.5df772ce727974f10bebc665979315f4.svg",
     "main.8429c1c4.css.map": "/art-without-borders/static/css/main.8429c1c4.css.map",
-    "main.cb189ceb.js.map": "/art-without-borders/static/js/main.cb189ceb.js.map",
+    "main.0dda8de4.js.map": "/art-without-borders/static/js/main.0dda8de4.js.map",
     "787.74dca50f.chunk.js.map": "/art-without-borders/static/js/787.74dca50f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8429c1c4.css",
-    "static/js/main.cb189ceb.js"
+    "static/js/main.0dda8de4.js"
   ]
 }
